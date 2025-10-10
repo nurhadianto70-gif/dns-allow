@@ -12,4 +12,5 @@
 ||nimegami.id^
 ||xnxx.com^
 ||*cloud-as.ruijienetworks.com^
-||*sim.pijarsekolah.id^
+||pijarsekolah.id^
+#/^([a-z0-9-]+\.)*pijarsekolah\.id$/i
