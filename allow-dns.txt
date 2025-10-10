@@ -13,4 +13,6 @@
 ||xnxx.com^
 ||*cloud-as.ruijienetworks.com^
 ||pijarsekolah.id^
+||*pijarsekolah.id^
 #/^([a-z0-9-]+\.)*pijarsekolah\.id$/i
+
