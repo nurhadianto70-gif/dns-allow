@@ -15,4 +15,17 @@
 ||pijarsekolah.id^
 ||*pijarsekolah.id^
 #/^([a-z0-9-]+\.)*pijarsekolah\.id$/i
+@@||pijarsekolah.id^
+@@||*.pijarsekolah.id^
+@@||pijarsekolah.id^
+@@||api.pijarsekolah.id^
+@@||auth-api.pijarsekolah.id^
+@@||student-api.pijarsekolah.id^
+@@||class-api.pijarsekolah.id^
+@@||ct-api.pijarsekolah.id^
+@@||notice-api.pijarsekolah.id^
+@@||common-api.pijarsekolah.id^
+@@||helpguide-api.pijarsekolah.id^
+@@||activation-api.pijarsekolah.id^
+
 
