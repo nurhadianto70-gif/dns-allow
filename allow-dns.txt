@@ -27,7 +27,6 @@
 @@||helpguide-api.pijarsekolah.id^
 @@||activation-api.pijarsekolah.id^
 @@||desustream.info^
-@@||*hbtbank.com^
 @@||speedtest.net^
 @@||*.speedtest.net^
 @@||ookla.com^
@@ -38,6 +37,7 @@
 @@||*.edge.speedtest.net^
 @@||cdn.speedtest.net^
 @@||*.cdn.speedtest.net^
+
 
 
 
