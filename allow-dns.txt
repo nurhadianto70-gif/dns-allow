@@ -29,6 +29,17 @@
 @@||activation-api.pijarsekolah.id^
 @@||desustream.info^
 @@||*hbtbank.com^
+@@||speedtest.net^
+@@||*.speedtest.net^
+@@||ookla.com^
+@@||*.ookla.com^
+@@||ooklaserver.net^
+@@||*.ooklaserver.net^
+@@||edge.speedtest.net^
+@@||*.edge.speedtest.net^
+@@||cdn.speedtest.net^
+@@||*.cdn.speedtest.net^
+
 
 
 
