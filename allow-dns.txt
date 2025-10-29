@@ -10,7 +10,6 @@
 ||otakudesu.best^
 ||samehadaku.li^
 ||nimegami.id^
-||xnxx.com^
 ||*cloud-as.ruijienetworks.com^
 ||pijarsekolah.id^
 ||*pijarsekolah.id^
@@ -39,6 +38,7 @@
 @@||*.edge.speedtest.net^
 @@||cdn.speedtest.net^
 @@||*.cdn.speedtest.net^
+
 
 
 
